@@ -1,0 +1,29 @@
+.btn-outline-success{
+    color: #29a587 !important;
+    background-color: #272d35 !important;
+
+}
+.btn-outline-success:hover{
+    color:white !important;
+}
+body{
+    background-color: #272d35 !important;
+}
+.bg-green{
+    background-color: #29a587 !important;
+}
+.btn1{
+    display: block !important;
+    margin: 0 auto;
+}
+.offcanvas-body{
+    background-color: #272d35;
+    color: aliceblue;
+}
+.offcanvas-header{
+    background-color: #29a587;
+    color: aliceblue;
+}
+a{
+    text-decoration: none !important;
+}
